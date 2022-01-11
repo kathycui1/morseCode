@@ -1,2 +1,2 @@
 # morseCode
-Morse Code Translator
+Morse Code Decoder and Encoder written in Python!
